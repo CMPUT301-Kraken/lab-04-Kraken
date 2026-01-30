@@ -1,4 +1,4 @@
 package com.example.lab_04_kraken;
 
-public class trapezoid {
+public class trapezoid extends Shape {
 }
